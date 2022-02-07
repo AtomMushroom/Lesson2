@@ -1,0 +1,13 @@
+D:\vs\Lesson2\Lesson_2Task7\Lesson_2Task7\bin\Debug\netcoreapp3.1\Lesson_2Task7.exe
+D:\vs\Lesson2\Lesson_2Task7\Lesson_2Task7\bin\Debug\netcoreapp3.1\Lesson_2Task7.deps.json
+D:\vs\Lesson2\Lesson_2Task7\Lesson_2Task7\bin\Debug\netcoreapp3.1\Lesson_2Task7.runtimeconfig.json
+D:\vs\Lesson2\Lesson_2Task7\Lesson_2Task7\bin\Debug\netcoreapp3.1\Lesson_2Task7.runtimeconfig.dev.json
+D:\vs\Lesson2\Lesson_2Task7\Lesson_2Task7\bin\Debug\netcoreapp3.1\Lesson_2Task7.dll
+D:\vs\Lesson2\Lesson_2Task7\Lesson_2Task7\bin\Debug\netcoreapp3.1\Lesson_2Task7.pdb
+D:\vs\Lesson2\Lesson_2Task7\Lesson_2Task7\obj\Debug\netcoreapp3.1\Lesson_2Task7.csprojAssemblyReference.cache
+D:\vs\Lesson2\Lesson_2Task7\Lesson_2Task7\obj\Debug\netcoreapp3.1\Lesson_2Task7.AssemblyInfoInputs.cache
+D:\vs\Lesson2\Lesson_2Task7\Lesson_2Task7\obj\Debug\netcoreapp3.1\Lesson_2Task7.AssemblyInfo.cs
+D:\vs\Lesson2\Lesson_2Task7\Lesson_2Task7\obj\Debug\netcoreapp3.1\Lesson_2Task7.csproj.CoreCompileInputs.cache
+D:\vs\Lesson2\Lesson_2Task7\Lesson_2Task7\obj\Debug\netcoreapp3.1\Lesson_2Task7.dll
+D:\vs\Lesson2\Lesson_2Task7\Lesson_2Task7\obj\Debug\netcoreapp3.1\Lesson_2Task7.pdb
+D:\vs\Lesson2\Lesson_2Task7\Lesson_2Task7\obj\Debug\netcoreapp3.1\Lesson_2Task7.genruntimeconfig.cache
